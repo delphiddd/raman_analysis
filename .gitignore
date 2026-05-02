@@ -1,0 +1,35 @@
+# Datasets (ใหญ่เกินไป)
+Datasets/
+
+# OS / IDE
+.DS_Store
+.claude/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ไฟล์อื่นๆ ที่ไม่เกี่ยวกับ notebook นี้
+*.JPG
+*.jpg
+*.pdf
+*.png
+GEMINI.md
+claude.md
+read.md
+raman_analysis_summary.md
+raman_analysis.ipynb
+raman_analysis_better.ipynb
+raman_classification_script_for_ajnon.ipynb
+raman.ipynb
+test.ipynb
+test.py
+test2.py
+create_notebook.py
+update_notebook_step1.py
+Picture/
+Weekly Assignments.pdf
